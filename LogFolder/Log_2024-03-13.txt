@@ -1,0 +1,102 @@
+2024-03-13/23:27:38		Database Connection started
+2024-03-13/23:27:38		Table creation started
+2024-03-13/23:27:38		Table created
+2024-03-13/23:27:38		DataBase Connection Closed
+2024-03-13/23:27:38		User Authentication Started
+2024-03-13/23:27:38		User Fetched
+2024-03-13/23:27:38		Unauthorized User not verified
+2024-03-13/23:27:50		Database Connection started
+2024-03-13/23:27:51		DataBase Connection Closed
+2024-03-13/23:27:58		Database Connection started
+2024-03-13/23:27:58		Table creation started
+2024-03-13/23:27:58		Table created
+2024-03-13/23:27:58		DataBase Connection Closed
+2024-03-13/23:27:58		User Authentication Started
+2024-03-13/23:27:58		User Fetched
+2024-03-13/23:27:58		User Successfully Verified
+2024-03-13/23:27:58		Getting All records of Employee
+2024-03-13/23:27:58		Successfully fetched all the record
+2024-03-13/23:27:58		Database Connection started
+2024-03-13/23:27:58		DataBase Connection Closed
+2024-03-13/23:28:09		Database Connection started
+2024-03-13/23:28:09		DataBase Connection Closed
+2024-03-13/23:28:09		Getting all details of employee of:1
+2024-03-13/23:28:09		Successfully fetched
+2024-03-13/23:28:21		Database Connection started
+2024-03-13/23:28:21		DataBase Connection Closed
+2024-03-13/23:28:33		Database Connection started
+2024-03-13/23:28:33		Table creation started
+2024-03-13/23:28:33		Table created
+2024-03-13/23:28:33		DataBase Connection Closed
+2024-03-13/23:28:33		Getting All records of Employee
+2024-03-13/23:28:33		Successfully fetched all the record
+2024-03-13/23:28:33		Database Connection started
+2024-03-13/23:28:33		DataBase Connection Closed
+2024-03-13/23:31:30		Database Connection started
+2024-03-13/23:31:30		Table creation started
+2024-03-13/23:31:30		Table created
+2024-03-13/23:31:30		DataBase Connection Closed
+2024-03-13/23:31:30		Getting All records of Employee
+2024-03-13/23:31:30		Successfully fetched all the record
+2024-03-13/23:31:30		Database Connection started
+2024-03-13/23:31:30		DataBase Connection Closed
+2024-03-13/23:31:32		Database Connection started
+2024-03-13/23:31:32		DataBase Connection Closed
+2024-03-13/23:31:32		Getting all details of employee of:0
+2024-03-13/23:31:32		Successfully fetched
+2024-03-13/23:32:18		Resume Converted to text from pdf
+2024-03-13/23:32:18		Getting skills values started
+2024-03-13/23:32:18		Data Cleaning Started
+2024-03-13/23:32:18		Tokenizing completed
+2024-03-13/23:32:18		Filtered Tokens Generated
+2024-03-13/23:32:18		Data Cleaning Started
+2024-03-13/23:32:18		Tokenizing completed
+2024-03-13/23:32:18		Filtered Tokens Generated
+2024-03-13/23:32:18		All skills extracted
+2024-03-13/23:32:18		Creating bag of words with Vectors
+2024-03-13/23:32:18		Started cosine similarity check
+2024-03-13/23:32:18		Similarity Check completed 
+2024-03-13/23:32:16		Checking the Duplicate email values
+2024-03-13/23:32:16		No Duplicate emails found
+2024-03-13/23:32:18		Inserting to Table TaEmployee started
+2024-03-13/23:32:18		Record Successfully created and Saved in TaEmployee table
+2024-03-13/23:32:17		Resume parsing started
+2024-03-13/23:32:17		Resume Saving....
+2024-03-13/23:32:17		Resume Saved
+2024-03-13/23:32:18		Resume parsed
+2024-03-13/23:32:18		Skill percentage fetched
+2024-03-13/23:32:18		Employee Saving Started
+2024-03-13/23:32:18		Employee Saved
+2024-03-13/23:32:16		Image Detection Started
+2024-03-13/23:32:16		Model Haarcascade Initialized
+2024-03-13/23:32:16		Converted to Gray Scale
+2024-03-13/23:32:17		Detection completed
+2024-03-13/23:32:17		Returing the detection
+2024-03-13/23:32:17		Profile Image Save started
+2024-03-13/23:32:17		Image Saved
+2024-03-13/23:32:16		Database Connection started
+2024-03-13/23:32:18		DataBase Connection Closed
+2024-03-13/23:32:18		Getting All records of Employee
+2024-03-13/23:32:18		Successfully fetched all the record
+2024-03-13/23:32:18		Database Connection started
+2024-03-13/23:32:18		DataBase Connection Closed
+2024-03-13/23:32:30		Database Connection started
+2024-03-13/23:32:30		DataBase Connection Closed
+2024-03-13/23:32:30		Getting all details of employee of:4
+2024-03-13/23:32:30		Successfully fetched
+2024-03-13/23:33:03		Getting All records of Employee
+2024-03-13/23:33:03		Successfully fetched all the record
+2024-03-13/23:33:03		Database Connection started
+2024-03-13/23:33:03		DataBase Connection Closed
+2024-03-13/23:33:09		Getting All records of Employee
+2024-03-13/23:33:09		Successfully fetched all the record
+2024-03-13/23:33:09		Database Connection started
+2024-03-13/23:33:09		DataBase Connection Closed
+2024-03-13/23:33:17		Database Connection started
+2024-03-13/23:33:17		DataBase Connection Closed
+2024-03-13/23:33:17		Getting all details of employee of:0
+2024-03-13/23:33:17		Successfully fetched
+2024-03-13/23:33:55		Getting All records of Employee
+2024-03-13/23:33:55		Successfully fetched all the record
+2024-03-13/23:33:55		Database Connection started
+2024-03-13/23:33:55		DataBase Connection Closed

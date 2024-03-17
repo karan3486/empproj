@@ -1,0 +1,46 @@
+2024-02-04/22:43:19		Getting All records of Employee
+2024-02-04/22:43:19		Successfully fetched all the record
+2024-02-04/22:43:19		Database Connection started
+2024-02-04/22:43:19		DataBase Connection Closed
+2024-02-04/22:44:06		Database Connection started
+2024-02-04/22:44:06		DataBase Connection Closed
+2024-02-04/22:44:10		Database Connection started
+2024-02-04/22:44:10		Table creation started
+2024-02-04/22:44:10		Table created
+2024-02-04/22:44:10		DataBase Connection Closed
+2024-02-04/22:44:10		User Authentication Started
+2024-02-04/22:44:10		User Fetched
+2024-02-04/22:44:10		User Successfully Verified
+2024-02-04/22:44:10		Getting All records of Employee
+2024-02-04/22:44:10		Successfully fetched all the record
+2024-02-04/22:44:10		Database Connection started
+2024-02-04/22:44:10		DataBase Connection Closed
+2024-02-04/22:44:20		Database Connection started
+2024-02-04/22:44:20		DataBase Connection Closed
+2024-02-04/22:44:20		Getting all details of employee of:1
+2024-02-04/22:44:20		Successfully fetched
+2024-02-04/22:44:27		Database Connection started
+2024-02-04/22:44:27		Table creation started
+2024-02-04/22:44:27		Table created
+2024-02-04/22:44:27		DataBase Connection Closed
+2024-02-04/22:44:28		Getting All records of Employee
+2024-02-04/22:44:28		Successfully fetched all the record
+2024-02-04/22:44:28		Database Connection started
+2024-02-04/22:44:28		DataBase Connection Closed
+2024-02-04/22:44:29		Database Connection started
+2024-02-04/22:44:29		DataBase Connection Closed
+2024-02-04/22:44:29		Getting all details of employee of:0
+2024-02-04/22:44:29		Successfully fetched
+2024-02-04/22:45:37		Checking the Duplicate email values
+2024-02-04/22:45:37		No Duplicate emails found
+2024-02-04/22:45:37		Image Detection Started
+2024-02-04/22:45:37		Model Haarcascade Initialized
+2024-02-04/22:45:37		Converted to Gray Scale
+2024-02-04/22:45:39		Detection completed
+2024-02-04/22:45:39		Returing the detection
+2024-02-04/22:45:37		Database Connection started
+2024-02-04/22:45:39		DataBase Connection Closed
+2024-02-04/22:46:55		Getting All records of Employee
+2024-02-04/22:46:55		Successfully fetched all the record
+2024-02-04/22:46:55		Database Connection started
+2024-02-04/22:46:55		DataBase Connection Closed

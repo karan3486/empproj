@@ -1,0 +1,48 @@
+2023-09-29/21:37:56		Database Connection started
+2023-09-29/21:37:56		DataBase Connection Closed
+2023-09-29/21:37:17		Database Connection started
+2023-09-29/21:37:17		Table creation started
+2023-09-29/21:37:17		Table created
+2023-09-29/21:37:18		DataBase Connection Closed
+2023-09-29/21:37:17		User Authentication Started
+2023-09-29/21:37:17		User Fetched
+2023-09-29/21:37:17		Unauthorized User not verified
+2023-09-29/21:38:06		Database Connection started
+2023-09-29/21:38:06		Table creation started
+2023-09-29/21:38:06		Table created
+2023-09-29/21:38:06		DataBase Connection Closed
+2023-09-29/21:38:06		User Authentication Started
+2023-09-29/21:38:06		User Fetched
+2023-09-29/21:38:06		User Successfully Verified
+2023-09-29/21:38:07		Getting All records of Employee
+2023-09-29/21:38:07		Successfully fetched all the record
+2023-09-29/21:38:07		Database Connection started
+2023-09-29/21:38:07		DataBase Connection Closed
+2023-09-29/21:39:19		Database Connection started
+2023-09-29/21:39:19		DataBase Connection Closed
+2023-09-29/21:39:19		Getting all details of employee of:0
+2023-09-29/21:39:19		Successfully fetched
+2023-09-29/21:40:31		Database Connection started
+2023-09-29/21:40:31		Table creation started
+2023-09-29/21:40:31		Table created
+2023-09-29/21:40:31		DataBase Connection Closed
+2023-09-29/21:40:31		Getting All records of Employee
+2023-09-29/21:40:31		Successfully fetched all the record
+2023-09-29/21:40:31		Database Connection started
+2023-09-29/21:40:31		DataBase Connection Closed
+2023-09-29/21:40:51		Database Connection started
+2023-09-29/21:40:51		DataBase Connection Closed
+2023-09-29/21:40:51		Getting all details of employee of:1
+2023-09-29/21:40:51		Successfully fetched
+2023-09-29/21:40:55		Getting All records of Employee
+2023-09-29/21:40:55		Successfully fetched all the record
+2023-09-29/21:40:55		Database Connection started
+2023-09-29/21:40:55		DataBase Connection Closed
+2023-09-29/21:41:22		Database Connection started
+2023-09-29/21:41:22		DataBase Connection Closed
+2023-09-29/21:41:22		Getting all details of employee of:0
+2023-09-29/21:41:22		Successfully fetched
+2023-09-29/21:41:30		Getting All records of Employee
+2023-09-29/21:41:30		Successfully fetched all the record
+2023-09-29/21:41:30		Database Connection started
+2023-09-29/21:41:30		DataBase Connection Closed

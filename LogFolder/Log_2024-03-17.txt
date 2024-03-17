@@ -1,0 +1,27 @@
+2024-03-17/01:45:08		Database Connection started
+2024-03-17/01:45:08		Table creation started
+2024-03-17/01:45:08		Table created
+2024-03-17/01:45:08		DataBase Connection Closed
+2024-03-17/01:45:08		User Authentication Started
+2024-03-17/01:45:08		User Fetched
+2024-03-17/01:45:08		User Successfully Verified
+2024-03-17/01:45:09		Getting All records of Employee
+2024-03-17/01:45:09		Successfully fetched all the record
+2024-03-17/01:45:09		Database Connection started
+2024-03-17/01:45:09		DataBase Connection Closed
+2024-03-17/01:55:26		Database Connection started
+2024-03-17/01:55:26		Table creation started
+2024-03-17/01:55:26		Table created
+2024-03-17/01:55:26		DataBase Connection Closed
+2024-03-17/01:55:26		Getting All records of Employee
+2024-03-17/01:55:26		Successfully fetched all the record
+2024-03-17/01:55:26		Database Connection started
+2024-03-17/01:55:26		DataBase Connection Closed
+2024-03-17/01:55:30		Database Connection started
+2024-03-17/01:55:30		Table creation started
+2024-03-17/01:55:30		Table created
+2024-03-17/01:55:30		DataBase Connection Closed
+2024-03-17/01:55:30		Getting All records of Employee
+2024-03-17/01:55:30		Successfully fetched all the record
+2024-03-17/01:55:30		Database Connection started
+2024-03-17/01:55:30		DataBase Connection Closed
