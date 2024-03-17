@@ -205,6 +205,7 @@ def Submit():
         return render_template('registration.html', employee=emp, isEdit=isUpdate)
     finally:
         db.Close()
+        print('Ok')
 
 
 
